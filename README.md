@@ -22,3 +22,4 @@
  > LF>0.296 && total<=0.186 = NREM
  
  > LF>0.296 && total>0.186 = REM_Wake
+.
